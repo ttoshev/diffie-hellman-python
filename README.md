@@ -1,3 +1,3 @@
-# diffie-hellman-python
+# diffiehellmanpython
 
 Library for performing diffie-hellman encryption/decryption.
